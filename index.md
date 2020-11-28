@@ -2,5 +2,6 @@
 layout: default
 title: Index
 ---
-fucking fuck fuck
+
+Index page... will be???
 
