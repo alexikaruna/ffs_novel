@@ -1,0 +1,679 @@
+---
+layout: default
+title: One Day
+permalink: "/one-day/"
+---
+<!-- wp:paragraph -->
+
+_One moment can change a day, one day can change a life and one life can change the world._&nbsp; — Buddah
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+**Hospital Moderna, Montevideo, Uruguay**
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+The wall-clock across the room ticked away, making it all real now. 8:05am. &nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Ana put her hand on her heart and massaged, gently kneading into her small developing breast, the warmth and softness in stark contrast to the almost scratchy starched gown she was in.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_I’m sorry about this. Sorry you’ve hurt so much.&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+The lump in her throat came and her eyes contracted with mist.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_You can always tell me ‘no’… still. I’m listening now too.&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+An image of herself as a young child. The girl with full wavy auburn hair inside the playhouse simply turned her head, smiled back and then turning back went on playing like nothing.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+She nodded. Business as usual. Just as before. Simply the feeling of things being right… with herself, the world…
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_Even that clock on the wall._
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_If I die in this process, I’ve died fighting for myself.&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_I’m at peace.&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+She was starting to see the pattern. These decisions took aggression to make. Each choice to change nature’s physical default, required a certain threshold of something almost like anger despite feeling at the same time right and absolutely necessary.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+She shook her head.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+The paradox of being violent against her own body in the name of authenticity. It had taken the last eighteen months to face and accept that.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_But I’m still sorry._
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+She ran her other hand over her face and neck, letting her fingers gently sink in and massage the flesh.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_Hi face… hi neck… everything inside… I’m sorry…_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+The dark nothingness approached… it was planned to last over eight hours today.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_The one I’ve already put through hell.&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+The tears intensified in her eyes.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+“I’m sorry little cells,” she pout-smiled and intoned almost inaudibly, as a mother to comfort a child, herself choked up with emotion.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+The usual response did not surprise her.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_“It’s okay. We’ve got this.”_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Once again they were going to war for her.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_With their blessing.&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Only minutes from now, she guessed. Thrown into a state of trauma and shock. Confusion. Attack. There was no way that it was not that. The loving and innate intelligence that no matter what would fight for survival until the very end.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+And even happiness.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_So maybe, then, there’s no conflict after all._
+
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+
+* * *
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+
+“Good morning Ana.”&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+The man in green scrubs and a surgical cap whisked around the corner and smiled, causing an immediate smile back from Ana, puling her out of contemplation.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_He came see me before the surgery.&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_Just as he had promised.&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+The last little thing in the trust rebuilding process.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_Check._&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_The one…_ she’d flown half way around the world for. With whom she’d fought with almost to the point of canceling plans several times in the six month waiting period. During that time she had wondered if she could trust him and his team. At best their email communications had been volatile. And now, if she had to do it again, she would have flown here six months ago to meet him in person. Because in person confirmed everything about her choice. &nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Terrasanto. Everyone just called him that. No ‘doctor’ prefix, just Terrasanto. An aesthetic and surgical genius. A hacker in his own right. A man with an internal barometer of what was good and what was not. He did forehead reconstruction differently than any other doctor in the world. The online forums were full of back and forth about him.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_In the end, when someone is the one, they simply are.&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_And you know it.&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+It hadn’t been about any promises he made her - in fact he only told her what he could do and where his limits were. He didn’t ask so much what she wanted but more like an artist told her what he thought would be a best total result. So much different from the technician surgeons who seemed to think of her face in pieces, as if they were themselves insecure in taking responsibility for the final result and instead asking her ‘what do you want to do?’.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+And she’d seen examples of Terrasanto’s work. So on paper and inside she knew.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+A hope she’d never had before.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Back then she barely had the faith such was possible. At least for her. Not the least that all the other surgeons she’d met with at best had been reluctant.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_Maybe the only one in the world who could do this.&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+For her. What she needed. She knew enough of life to trust such strong senses, as they were not always so clear.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_If I don’t trust things when they’re crystal clear, its like taking a sledgehammer to my internal barometer.&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+She knew that from experience.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+A spontaneous deep breath entered her lungs as if her body was giving its blessing into his hands. The same that had always come when she contemplated this choice, regardless of the apparent external conflicts in the interim.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+“How are you this morning? Sleep well? Get here alright?”&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Terrasanto continued in strong but accented English, the rapid fire questions making it clear that detailed answers weren’t required. His perceptive eyes were already studying her face.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+“Yes, everything was fine. Glad to be here finally!”&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+She smiled. Although fluent in Spanish she no longer cared to assert so when addressed in her native tongue. It was funny how the more she liked and became herself, the less ego she seemed to need to support her.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+The surgeon was followed by two other men in the same type of scrubs.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+“This is the rest of my surgical team, Dr. Salvatorre, Dr. Rivera, and you’ll meet Dr. Guzman my anesthesiologist in the quirofano.”
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Standing around her bed the surgeons began talking amongst themselves, her face was the object, discussing the locations of the incisions they’d make for the various combined procedures and the surgical game plan. With the green head covers and surgical masks, all she could see was the focus and intentness of their eyes.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Another deep breath came. She felt surprisingly calm. She felt complete trust in this team and what was coming next.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+
+* * *
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+
+_How much more you appreciate what you have on the day you leave._
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+There was something inside that shriveled when she recognized how her defenses, the anger and anxiety so often present played into alienating herself from others. And now the same feeling, but with life itself.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_All the times I’ve cursed the universe for putting me in this position. Giving me these challenges. And not trusted. Over and over. And every time…_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+The tears again came to her eyes.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_Because it’s been perfect. I’m always cared for in the end. Always have been…_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_I’m sorry life. Universe.&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_Thank you.&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_I love you. I wouldn’t change for anyone.&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_Really._
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+A smile broke on her face when she realized what she’d just said to herself.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+She knew today was a big point between before and after. Every piece of imperfect trust had led here. The operation and change almost no one she knew thought she should have or ‘needed’.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_That’s what hurt. But then again…&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_This is not running._
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+She knew how good it felt to run. Drop things, start over, go somewhere new. But today was different. In the last year, running had lost the power of promise.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_This is what all the running of the past was toward._
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_From here on I live. I face things head on…_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_If I live._
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+For the first time in her life she really saw it for what it was, the passion that made her, to the outside world including her family, appear to be fragmented and lost. Albeit a world nomad who up to now did fine supporting herself and her enigmatic lifestyle and choices. And then the last sprint to the visible goal when the mystery unraveled enough for her to see things clearly, this past year.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+
+* * *
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+
+As if the thought of running was the cue, the gurney-bed was now in motion, guided by a pair of nurses who had come silently to the task. On her back, all she could see was the ceiling as its dimmed lights as they went by.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_No more time.&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+She couldn’t help the silent tears from falling now.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+On the edge between choice and no longer having it. Like the occasional dreams she’d have of being in the waiting line to receive death.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_Immediate non-existence.&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Nothing about pain. Just the line between being on one side and then the other.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_The huge emotion of letting go._
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_This must be how animals feel. On the way to…&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_Out of your hands unless you want one last fight._
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_I have no will to fight this… any longer…_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+A fitting climax to the past eighteen months of her life. Not to mention all the years before.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_I’m all in._
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+She massaged her heart again and nodded.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_Poor heart. I’m sorry._
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Regardless of the comforting, she felt her adrenaline kick up a notch sending a visceral chill of anxiety through her system in a cool sweat.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_My system. My life. I’m playing with it. I made a choice._&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+She took a deep breath.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Time was speeding up more now, she could feel it.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_And if this is how it ends, thank you life. I’ve loved you.&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+She felt the release of big tear dropping from her eye.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+
+* * *
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+
+A port in a wall of glass approached. The sign said _Quirofono 9._ She turned her head in curiosity_._ Inside, smooth white tiled walls were accented with electronic equipment, blinking lights, a few metal tables. She saw the array of x-rays of her skull up on the lighted screen behind the operating table. One more detail making her feel safe, cared for and in the right place.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+As her gurney cleared the opening, the glass wall closed behind them and the room became its own enclosed and protected station.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Terrasanto, the team, and a few other people she hadn’t met were already there. In her last two surgeries she had not even known if the doctor had arrived by the time she was put under, leading her to wonder even when waking up if the surgery had actually taken place.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_Another detail making things just right._
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+As the gurney made its final roll and the nurses helped her transfer to the operating table, she was greeted by a smiling man who took her hand. Terrasanto approached them.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+“This is Arnoldo Guzman, he’s a genius with anesthesia”.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Dr. Guzman’s smile captivated Ana. It was wide and warm. Like a Cheshire cat. He had backed in with the moving gurney, having taken her hand gently, and sat casually atop the table next to her in his differentially gray surgical uniform and wrapped head. Meanwhile several other hands were on her prepping for the surgery adding to the sensory overload.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+“You may be a bit dizzy,” he mentioned almost in passing, still holding her hand with that mixture of comfort, professional confidence and care.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+She had been put under general a handful of times before. She guessed soon they would tell her they were administering it and ask her to count down from 100. Probably that feeling of coolness flowing up her arm from the IV, the cool of unconscious sleep. Maybe the mask and to ‘take a deep breath’ of ‘oxygen’, they would say. _That one_ would otherwise make her crack up… ‘oxygen… yeah right’… but she had never stayed awake to do so. Sometimes they did and sometimes they didn’t have that mask. The smell-taste of the gas was imprinted on her psyche.&nbsp;
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+For whatever reason, she paid close attention to everything that happened each time. On the way in and the first moments out. It seemed important.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_But why did he say I might feel dizzy?&nbsp;_
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Then nothing.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Black. Not even that. Not even nothing. Void.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Not.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+[NEXT](http://ffs.alexikaruna.com/koona/)
+
+<!-- /wp:paragraph -->
+
