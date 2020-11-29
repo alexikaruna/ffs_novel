@@ -418,7 +418,7 @@ Mali: _Hey K. Its Open Soul…_
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/karina/)
+[NEXT]({{ site.baseurl }}/karina/)
 
 <!-- /wp:paragraph -->
 

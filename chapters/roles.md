@@ -580,7 +580,7 @@ But Koona was not here and would never be.&nbsp;
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/i-think-i-should-go-now/)
+[NEXT]({{ site.baseurl }}/i-think-i-should-go-now/)
 
 <!-- /wp:paragraph -->
 

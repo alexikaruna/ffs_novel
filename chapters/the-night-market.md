@@ -669,7 +669,7 @@ Riding the waves. Finally feeling the vortex of forces $he was enmeshed in.&nbsp
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/recollections/)
+[NEXT]({{ site.baseurl }}/recollections/)
 
 <!-- /wp:paragraph -->
 

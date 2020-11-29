@@ -609,7 +609,7 @@ _Angel or demon._
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/re-koona/)
+[NEXT]({{ site.baseurl }}/re-koona/)
 
 <!-- /wp:paragraph -->
 

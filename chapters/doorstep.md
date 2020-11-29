@@ -597,7 +597,7 @@ _Jesus, Cat, stop!&nbsp;_
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/the-face/)
+[NEXT]({{ site.baseurl }}/the-face/)
 
 <!-- /wp:paragraph -->
 

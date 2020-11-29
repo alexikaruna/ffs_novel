@@ -179,7 +179,7 @@ She smiled, “Talk soon.”
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/kad-suan-kaew/)
+[NEXT]({{ site.baseurl }}/kad-suan-kaew/)
 
 <!-- /wp:paragraph -->
 

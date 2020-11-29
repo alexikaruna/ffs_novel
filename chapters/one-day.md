@@ -673,7 +673,7 @@ Not.
 
 <!-- wp:paragraph -->
 
-[NEXT](http://ffs.alexikaruna.com/koona/)
+[NEXT]({{ site.baseurl }}/koona/)
 
 <!-- /wp:paragraph -->
 

@@ -429,7 +429,7 @@ Because today they do.&nbsp;
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/shocked/)
+[NEXT]({{ site.baseurl }}/shocked/)
 
 <!-- /wp:paragraph -->
 

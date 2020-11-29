@@ -185,7 +185,7 @@ $he’d never known K beyond this level of mysteriousness. But here K was, seemi
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/doorstep/)
+[NEXT]({{ site.baseurl }}/doorstep/)
 
 <!-- /wp:paragraph -->
 

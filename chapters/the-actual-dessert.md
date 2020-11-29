@@ -291,7 +291,7 @@ They were a perfect match, both slender, toned and smooth. Feeling Cat’s skin 
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/roles/)
+[NEXT]({{ site.baseurl }}/roles/)
 
 <!-- /wp:paragraph -->
 

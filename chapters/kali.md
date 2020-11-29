@@ -795,7 +795,7 @@ Mali smirked then actually laughed at the image. Pretty funny.
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/cats-heartbreak/)
+[NEXT]({{ site.baseurl }}/cats-heartbreak/)
 
 <!-- /wp:paragraph -->
 

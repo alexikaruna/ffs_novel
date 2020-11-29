@@ -501,7 +501,7 @@ Mali returned Cat’s magneto-dominant gaze with the opposite polarity. For the 
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/no-promises/)
+[NEXT]({{ site.baseurl }}/no-promises/)
 
 <!-- /wp:paragraph -->
 

@@ -651,7 +651,7 @@ SESSION TERMINATED BY HOST.
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/terrasantos-wonder/)
+[NEXT]({{ site.baseurl }}/terrasantos-wonder/)
 
 <!-- /wp:paragraph -->
 

@@ -377,7 +377,7 @@ _Fuck this!_
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/the-motley-crew-and-thailand/)
+[NEXT]({{ site.baseurl }}/the-motley-crew-and-thailand/)
 
 <!-- /wp:paragraph -->
 

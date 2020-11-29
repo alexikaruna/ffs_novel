@@ -591,7 +591,7 @@ Down a block and a turn.
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/are-we-there-yet/)
+[NEXT]({{ site.baseurl }}/are-we-there-yet/)
 
 <!-- /wp:paragraph -->
 

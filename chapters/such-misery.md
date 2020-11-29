@@ -677,7 +677,7 @@ And slept.
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/on-the-moon/)
+[NEXT]({{ site.baseurl }}/on-the-moon/)
 
 <!-- /wp:paragraph -->
 

@@ -567,7 +567,7 @@ Mali in $er abandon had gotten a piece of frosting stuck to $er lower lip and be
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/the-actual-dessert/)
+[NEXT]({{ site.baseurl }}/the-actual-dessert/)
 
 <!-- /wp:paragraph -->
 

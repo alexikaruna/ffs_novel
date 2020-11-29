@@ -379,7 +379,7 @@ The clock of life was ticking and this conflict was not going away.&nbsp;
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/skype/)
+[NEXT]({{ site.baseurl }}/skype/)
 
 <!-- /wp:paragraph -->
 

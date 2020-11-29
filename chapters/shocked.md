@@ -95,7 +95,7 @@ Without warning she felt her feet brace against the pool wall, as if not her own
 
 <!-- wp:paragraph -->
 
-[NEXT](http://ffs.alexikaruna.com/kaa-kaa/)
+[NEXT]({{ site.baseurl }}/kaa-kaa/)
 
 <!-- /wp:paragraph -->
 

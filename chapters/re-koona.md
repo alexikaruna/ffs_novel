@@ -143,7 +143,7 @@ Cat felt weak in her stomach. “Koona ka? Is that you?” as tears migrated to 
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/the-night-market/)
+[NEXT]({{ site.baseurl }}/the-night-market/)
 
 <!-- /wp:paragraph -->
 

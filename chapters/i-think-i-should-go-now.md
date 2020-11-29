@@ -452,7 +452,7 @@ Authentic.
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/back-alone/)
+[NEXT]({{ site.baseurl }}/back-alone/)
 
 <!-- /wp:paragraph -->
 

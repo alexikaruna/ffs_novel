@@ -691,7 +691,7 @@ _Much less care._
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/japanese/)
+[NEXT]({{ site.baseurl }}/japanese/)
 
 <!-- /wp:paragraph -->
 

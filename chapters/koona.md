@@ -125,7 +125,7 @@ She turned her head to Koona with a broad smile as her world, one that was so or
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/the-price-tag/)
+[NEXT]({{ site.baseurl }}/the-price-tag/)
 
 <!-- /wp:paragraph -->
 

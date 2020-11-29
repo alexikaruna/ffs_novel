@@ -339,7 +339,7 @@ And at this point beyond Cat and Mali’s too.
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/parting/)
+[NEXT]({{ site.baseurl }}/parting/)
 
 <!-- /wp:paragraph -->
 

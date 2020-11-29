@@ -298,7 +298,7 @@ _Who is ‘Ana’?!_
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/home/)
+[NEXT]({{ site.baseurl }}/home/)
 
 <!-- /wp:paragraph -->
 

@@ -467,7 +467,7 @@ _Where does that leave me other than with a knife in my hand and a seemingly imp
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/un-american/)
+[NEXT]({{ site.baseurl }}/un-american/)
 
 <!-- /wp:paragraph -->
 

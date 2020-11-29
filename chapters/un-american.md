@@ -466,7 +466,7 @@ Mali felt at ease again and smiled, “Great!”.
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/chatuchak-park/)
+[NEXT]({{ site.baseurl }}/chatuchak-park/)
 
 <!-- /wp:paragraph -->
 

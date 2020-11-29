@@ -227,7 +227,7 @@ $he pulled out the bench and sat down, Cat joined $er at the edge, “Is this ok
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/piano/)
+[NEXT]({{ site.baseurl }}/piano/)
 
 <!-- /wp:paragraph -->
 

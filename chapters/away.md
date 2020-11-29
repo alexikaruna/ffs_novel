@@ -125,7 +125,7 @@ And so much time and life had passed since then. And so much more femininity had
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/chiang-rai/)
+[NEXT]({{ site.baseurl }}/chiang-rai/)
 
 <!-- /wp:paragraph -->
 

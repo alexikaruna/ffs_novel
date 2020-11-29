@@ -143,7 +143,7 @@ Terrasanto hung up.
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/the-chinese-tune/)
+[NEXT]({{ site.baseurl }}/the-chinese-tune/)
 
 <!-- /wp:paragraph -->
 

@@ -29,7 +29,7 @@ Deciding to trust oneself, body and feelings, even when the external world has c
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/ripples/)
+[NEXT]({{ site.baseurl }}/ripples/)
 
 <!-- /wp:paragraph -->
 

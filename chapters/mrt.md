@@ -125,7 +125,7 @@ _The perfect woman._
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/standing/)
+[NEXT]({{ site.baseurl }}/standing/)
 
 <!-- /wp:paragraph -->
 

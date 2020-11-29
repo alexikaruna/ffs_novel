@@ -125,7 +125,7 @@ She was not the first and surely far from the last of such a person he would see
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/a-girl-who-knows-a-guy/)
+[NEXT]({{ site.baseurl }}/a-girl-who-knows-a-guy/)
 
 <!-- /wp:paragraph -->
 

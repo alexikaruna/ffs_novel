@@ -172,7 +172,7 @@ All of the sudden, what $he saw paralyzed $er heart and made $er stop in $er tra
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/koonas-klong-house/)
+[NEXT]({{ site.baseurl }}/koonas-klong-house/)
 
 <!-- /wp:paragraph -->
 

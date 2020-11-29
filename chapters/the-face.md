@@ -325,7 +325,7 @@ As they met eyes as Mali came to exit, $he could see beyond the doubt the light 
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/the-way-back-to-love/)
+[NEXT]({{ site.baseurl }}/the-way-back-to-love/)
 
 <!-- /wp:paragraph -->
 

@@ -101,7 +101,7 @@ _Jesus Koona._
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/100-years/)
+[NEXT]({{ site.baseurl }}/100-years/)
 
 <!-- /wp:paragraph -->
 

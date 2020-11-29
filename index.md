@@ -11,8 +11,8 @@ Cat is a successful Thai entrepreneur, educated in Japan with impeccable social 
 When Cat and Mali meet a friendship develops allowing each a place of deep expression of what they've been unable to communicate with anyone else - in friendship and eventually intimacy. To Mali, Cat is the perfect woman who could get 'him' over the whole 'fem thing'. And to Cat, Mali is the perfect man, a 'rockstar', the answer to what has been missing in her relationships. To each, the other is the answer. But in the way expected?
 
 
-[CHAPTERS](https://ffs.alexikaruna.com/index.php/chapters/)
+[CHAPTERS]({{ site.baseurl }}/chapters)
 
-[SYNOPSIS](https://ffs.alexikaruna.com/index.php/synopsis/)
+[SYNOPSIS]({{ site.baseurl }}/synopsis)
 
 

@@ -567,7 +567,7 @@ Suddenly they both caught eye of the cloud of smoke and a flame rising from the 
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/only-you-are-confused/)
+[NEXT]({{ site.baseurl }}/only-you-are-confused/)
 
 <!-- /wp:paragraph -->
 

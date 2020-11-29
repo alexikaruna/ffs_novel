@@ -203,7 +203,7 @@ So the answer was easy and $he sent it off.
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/the-free-fuck-you/)
+[NEXT]({{ site.baseurl }}/the-free-fuck-you/)
 
 <!-- /wp:paragraph -->
 

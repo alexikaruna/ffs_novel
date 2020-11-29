@@ -161,7 +161,7 @@ Jessi pulled on her leather jacket and got on her motorcycle. Anastasia in her b
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/ruminations/)
+[NEXT]({{ site.baseurl }}/ruminations/)
 
 <!-- /wp:paragraph -->
 

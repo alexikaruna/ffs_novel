@@ -261,7 +261,7 @@ _Fuck…_
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/the-path/)
+[NEXT]({{ site.baseurl }}/the-path/)
 
 <!-- /wp:paragraph -->
 

@@ -251,7 +251,7 @@ As if reading Mali's mind, Cat brushed $er forearm, “Come on, let's enjoy the 
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/the-restaurant/)
+[NEXT]({{ site.baseurl }}/the-restaurant/)
 
 <!-- /wp:paragraph -->
 

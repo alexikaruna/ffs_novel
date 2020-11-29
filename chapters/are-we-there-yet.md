@@ -352,7 +352,7 @@ Ready, $he opened $er door and made $er way.
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/broken-rules/)
+[NEXT]({{ site.baseurl }}/broken-rules/)
 
 <!-- /wp:paragraph -->
 

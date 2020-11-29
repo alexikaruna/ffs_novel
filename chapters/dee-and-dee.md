@@ -113,7 +113,7 @@ Or anywhere.
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/mrt/)
+[NEXT]({{ site.baseurl }}/mrt/)
 
 <!-- /wp:paragraph -->
 

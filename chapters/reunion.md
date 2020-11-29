@@ -526,7 +526,7 @@ Koona broke the expanding chasm, “It’s getting late, you want to see my new 
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/open-soul/)
+[NEXT]({{ site.baseurl }}/open-soul/)
 
 <!-- /wp:paragraph -->
 

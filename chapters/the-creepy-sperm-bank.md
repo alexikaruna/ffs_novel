@@ -411,7 +411,7 @@ $he _could_ go somewhere else. To get perspective. That was an idea. And however
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/all-living-things/)
+[NEXT]({{ site.baseurl }}/all-living-things/)
 
 <!-- /wp:paragraph -->
 

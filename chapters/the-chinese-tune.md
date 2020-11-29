@@ -818,7 +818,7 @@ But nevertheless, as $he entered Central Chiang Rai today, $he put on the smile 
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/reunion/)
+[NEXT]({{ site.baseurl }}/reunion/)
 
 <!-- /wp:paragraph -->
 

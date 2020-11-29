@@ -455,7 +455,7 @@ Even if plopped back in the same place and time with her back then, $he still di
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/normal-trans)
+[NEXT]({{ site.baseurl }}/normal-trans)
 
 <!-- /wp:paragraph -->
 

@@ -257,7 +257,7 @@ And do due diligence to know what this mystery inside _actually is_.
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/dee-and-dee/)
+[NEXT]({{ site.baseurl }}/dee-and-dee/)
 
 <!-- /wp:paragraph -->
 

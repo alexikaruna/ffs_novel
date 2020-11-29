@@ -579,7 +579,7 @@ _Not really._
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/fuck-fuck-fuck/)
+[NEXT]({{ site.baseurl }}/fuck-fuck-fuck/)
 
 <!-- /wp:paragraph -->
 

@@ -598,7 +598,7 @@ _And be so with a woman._
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/sarai/)
+[NEXT]({{ site.baseurl }}/sarai/)
 
 <!-- /wp:paragraph -->
 

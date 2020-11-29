@@ -592,7 +592,7 @@ _Oh yeah, that’s exactly the life I have right now._
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/the-angry-shaman/)
+[NEXT]({{ site.baseurl }}/the-angry-shaman/)
 
 <!-- /wp:paragraph -->
 

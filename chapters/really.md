@@ -462,7 +462,7 @@ The kind of crying that happens when you’ve lived a lie and lost your bet.
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/home-again/)
+[NEXT]({{ site.baseurl }}/home-again/)
 
 <!-- /wp:paragraph -->
 

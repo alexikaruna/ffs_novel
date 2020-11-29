@@ -196,7 +196,7 @@ All things considered, Mali was thankful that Cat had only informed $er of this 
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/john-lennon/)
+[NEXT]({{ site.baseurl }}/john-lennon/)
 
 <!-- /wp:paragraph -->
 

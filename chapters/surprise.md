@@ -144,7 +144,7 @@ Oh, in HIS heart I meant to say.
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/suan-benjasiri/)
+[NEXT]({{ site.baseurl }}/suan-benjasiri/)
 
 <!-- /wp:paragraph -->
 

@@ -480,7 +480,7 @@ It was as if $er body could feel a parallel existence and it already knew how go
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/really/)
+[NEXT]({{ site.baseurl }}/really/)
 
 <!-- /wp:paragraph -->
 

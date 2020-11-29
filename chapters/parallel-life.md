@@ -245,7 +245,7 @@ Natalia’s family never moved again. Jessi was challenged but never defeated - 
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/ultimatum/)
+[NEXT]({{ site.baseurl }}/ultimatum/)
 
 <!-- /wp:paragraph -->
 

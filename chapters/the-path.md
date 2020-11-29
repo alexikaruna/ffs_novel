@@ -297,7 +297,7 @@ Mali had spaced out. Coming to, $he hopped up along the last fifteen feet of the
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/sweetness/)
+[NEXT]({{ site.baseurl }}/sweetness/)
 
 <!-- /wp:paragraph -->
 

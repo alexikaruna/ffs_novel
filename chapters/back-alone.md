@@ -244,7 +244,7 @@ Still laying on her mat in $er underwear, $he pinched $erself and it seemed to h
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/such-misery/)
+[NEXT]({{ site.baseurl }}/such-misery/)
 
 <!-- /wp:paragraph -->
 

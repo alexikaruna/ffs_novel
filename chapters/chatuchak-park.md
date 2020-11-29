@@ -915,7 +915,7 @@ As Cats head disappeared from view down the escalator, Mali turned and began to 
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/away/)
+[NEXT]({{ site.baseurl }}/away/)
 
 <!-- /wp:paragraph -->
 

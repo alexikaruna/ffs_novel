@@ -305,7 +305,7 @@ _And…_&nbsp;
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/the-creepy-sperm-bank/)
+[NEXT]({{ site.baseurl }}/the-creepy-sperm-bank/)
 
 <!-- /wp:paragraph -->
 

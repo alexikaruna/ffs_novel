@@ -39,7 +39,7 @@ permalink: "/ripples/"
 
 <!-- wp:paragraph -->
 
-[NEXT](http://ffs.alexikaruna.com/one-day/)
+[NEXT]({{ site.baseurl }}/one-day/)
 
 <!-- /wp:paragraph -->
 

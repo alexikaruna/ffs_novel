@@ -515,7 +515,7 @@ Koona went to the bedroom area and her eyes quickly fell on her soft body-length
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/the-blackest-sheep/)
+[NEXT]({{ site.baseurl }}/the-blackest-sheep/)
 
 <!-- /wp:paragraph -->
 

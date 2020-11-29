@@ -262,7 +262,7 @@ And the distance allowed $er to continue sitting on the fence with $er drawn out
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/a-plan/)
+[NEXT]({{ site.baseurl }}/a-plan/)
 
 <!-- /wp:paragraph -->
 

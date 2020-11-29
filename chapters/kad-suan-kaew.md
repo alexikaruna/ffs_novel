@@ -681,7 +681,7 @@ And in an equally remote place with $erself inside.
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/surprise/)
+[NEXT]({{ site.baseurl }}/surprise/)
 
 <!-- /wp:paragraph -->
 

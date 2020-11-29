@@ -315,7 +315,7 @@ But the unknown was in which direction.
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/the-pink-button-down-shirt/)
+[NEXT]({{ site.baseurl }}/the-pink-button-down-shirt/)
 
 <!-- /wp:paragraph -->
 

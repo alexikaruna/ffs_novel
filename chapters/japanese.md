@@ -89,7 +89,7 @@ Still with fear but ready to talk, Cat spoke, “Koona, I’m so afraid,” her 
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/kali/)
+[NEXT]({{ site.baseurl }}/kali/)
 
 <!-- /wp:paragraph -->
 

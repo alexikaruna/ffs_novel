@@ -732,7 +732,7 @@ _Instead, me!_
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/thai-reality/)
+[NEXT]({{ site.baseurl }}/thai-reality/)
 
 <!-- /wp:paragraph -->
 

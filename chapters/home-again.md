@@ -101,7 +101,7 @@ _Being this, and dancing, it makes me feel alive where nothing else does… or d
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/i-need-help/)
+[NEXT]({{ site.baseurl }}/i-need-help/)
 
 <!-- /wp:paragraph -->
 

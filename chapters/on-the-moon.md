@@ -567,7 +567,7 @@ A dance the Thai could play par excellence. Cat winked back at Koona as they bot
 
 <!-- wp:paragraph -->
 
-[NEXT](https://ffs.alexikaruna.com/parallel-life/)
+[NEXT]({{ site.baseurl }}/parallel-life/)
 
 <!-- /wp:paragraph -->
 
