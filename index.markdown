@@ -1,7 +1,8 @@
 ---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
 layout: default
-title: Index 
-permalink: /index/
 ---
 <img style="float: left; margin: 10px;" src="{{site.baseurl}}/assets/images/ffs-cover.png" width='50%' height='50%'>
 Mali, born physically male feels feminine inside but is insecure with the depth and expression of such. Over some years Mali has gravitated progressively toward feminine presentation. But the apparent ridicule of the world around, much of which Mali attributes to how they look in the mirror keeps them in check. Not to mention the more fem they let out, the more they are read as being 'gay' which feels like the painful end of hope for their most cherished dream, a melting love with a special woman. Now floating in Thailand as a tech-nomad, Mali is flirting with hormones and feminization surgeries, with no goal in mind but to face their identity once and for all before returning to the USA.
