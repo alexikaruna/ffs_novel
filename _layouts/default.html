@@ -9,7 +9,9 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        {{ page.title }}
+        {% if page.title != "Index" %}
+          <h2><b>{{ page.title }}</b></h2>
+        {% endif %}
         {{ content }}
       </div>
     </main>

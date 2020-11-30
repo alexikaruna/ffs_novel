@@ -11,106 +11,106 @@ _FFS is being published serially on this site starting December 2019. New chapte
 
 <!-- wp:paragraph -->
 
-[Dedication](dedication.md)
+[Dedication]({{ site.baseurl }}/dedication)
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
 **ANTECEDENTS**  
-[Ripples](ripples.md)  
-[O](index.php/2019/12/25/one-day/)[ne Day](one-day.md)
+[Ripples]({{ site.baseurl }}/ripples)  
+[One Day]({{ site.baseurl }}/one-day)
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
 **BEFORE**  
-[Koona](koona.md)  
-[The Price Tag](the-price-tag.md)  
-[Shocked](shocked.md)  
-[Kaa Kaa](kaa-kaa.md)  
-[Dee and Dee](dee-and-dee.md)  
-[MRT](mrt.md)
+[Koona]({{ site.baseurl }}/koona)  
+[The Price Tag]({{ site.baseurl }}/the-price-tag)  
+[Shocked]({{ site.baseurl }}/shocked)  
+[Kaa Kaa]({{ site.baseurl }}/kaa-kaa)  
+[Dee and Dee]({{ site.baseurl }}/dee-and-dee)  
+[MRT]({{ site.baseurl }}/mrt)
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
 **DESPAIR**  
-[Standing](standing.md)  
-[Thai Reality](thai-reality.md)  
-[The Pink Button-Down Shirt](the-pink-button-down-shirt.md)  
-[Fuck. Fuck? Fuck!](fuck-fuck-fuck.md)  
- [Frustrated Shaman](the-angry-shaman.md)  
-["Home"](home.md)  
-[Re-Koona](re-koona.md)  
-[The Night Market](the-night-market.md)  
-[Recollections](recollections.md)  
-[The Chinese Tune](the-chinese-tune.md)  
-[Reunion](reunion.md)  
-[Open Soul](open-soul.md)  
-[The Creepy Sperm Bank](the-creepy-sperm-bank.md)  
-[All Living Things](all-living-things.md)  
-[Koona's Klong House](koonas-klong-house.md)  
-[100 Years](100-years.md)  
-[Japanese](japanese.md)  
-[Kali](kali.md)  
-[Cat's Heartbreak](cats-heartbreak.md)  
-[The Blackest Sheep](the-blackest-sheep.md)  
-[Sarai](sarai.md)
+[Standing]({{ site.baseurl }}/standing)  
+[Thai Reality]({{ site.baseurl }}/thai-reality)  
+[The Pink Button-Down Shirt]({{ site.baseurl }}/the-pink-button-down-shirt)  
+[Fuck. Fuck? Fuck!]({{ site.baseurl }}/fuck-fuck-fuck)  
+ [Frustrated Shaman]({{ site.baseurl }}/the-angry-shaman)  
+["Home"]({{ site.baseurl }}/home)  
+[Re-Koona]({{ site.baseurl }}/re-koona)  
+[The Night Market]({{ site.baseurl }}/the-night-market)  
+[Recollections]({{ site.baseurl }}/recollections)  
+[The Chinese Tune]({{ site.baseurl }}/the-chinese-tune)  
+[Reunion]({{ site.baseurl }}/reunion)  
+[Open Soul]({{ site.baseurl }}/open-soul)  
+[The Creepy Sperm Bank]({{ site.baseurl }}/the-creepy-sperm-bank)  
+[All Living Things]({{ site.baseurl }}/all-living-things)  
+[Koona's Klong House]({{ site.baseurl }}/koonas-klong-house)  
+[100 Years]({{ site.baseurl }}/100-years)  
+[Japanese]({{ site.baseurl }}/japanese)  
+[Kali]({{ site.baseurl }}/kali)  
+[Cat's Heartbreak]({{ site.baseurl }}/cats-heartbreak)  
+[The Blackest Sheep]({{ site.baseurl }}/the-blackest-sheep)  
+[Sarai]({{ site.baseurl }}/sarai)
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
 **CAT**  
-[Un-American](un-american.md)  
-[Chatuchak Park](chatuchak-park.md)  
-[Away](away.md)  
-[Chiang Rai](chiang-rai.md)  
-[Skype](skype.md)  
-[A Plan](a-plan.md)  
-[John Lennon](john-lennon.md)  
-[The Restaurant](the-restaurant.md)  
-[Piano](piano.md)  
-[The Path](the-path.md)  
-[Sweetness](sweetness.md)  
-[Parting](parting.md)  
-[Kad Suan Kaew](kad-suan-kaew.md)  
-[Surprise](surprise.md)  
-[Suan Benjasiri](suan-benjasiri.md)  
-[Are We There Yet?](are-we-there-yet.md)  
-[Broken Rules](broken-rules.md)  
-[Only You Are Confused](only-you-are-confused.md)  
-[No Promises](no-promises.md)  
-[The Actual Dessert](the-actual-dessert.md)  
-[Roles](roles.md)  
-[I Think I Should Go Now](i-think-i-should-go-now.md)  
-[Back Alone](back-alone.md)
+[Un-American]({{ site.baseurl }}/un-american)  
+[Chatuchak Park]({{ site.baseurl }}/chatuchak-park)  
+[Away]({{ site.baseurl }}/away)  
+[Chiang Rai]({{ site.baseurl }}/chiang-rai)  
+[Skype]({{ site.baseurl }}/skype)  
+[A Plan]({{ site.baseurl }}/a-plan)  
+[John Lennon]({{ site.baseurl }}/john-lennon)  
+[The Restaurant]({{ site.baseurl }}/the-restaurant)  
+[Piano]({{ site.baseurl }}/piano)  
+[The Path]({{ site.baseurl }}/the-path)  
+[Sweetness]({{ site.baseurl }}/sweetness)  
+[Parting]({{ site.baseurl }}/parting)  
+[Kad Suan Kaew]({{ site.baseurl }}/kad-suan-kaew)  
+[Surprise]({{ site.baseurl }}/surprise)  
+[Suan Benjasiri]({{ site.baseurl }}/suan-benjasiri)  
+[Are We There Yet?]({{ site.baseurl }}/are-we-there-yet)  
+[Broken Rules]({{ site.baseurl }}/broken-rules)  
+[Only You Are Confused]({{ site.baseurl }}/only-you-are-confused)  
+[No Promises]({{ site.baseurl }}/no-promises)  
+[The Actual Dessert]({{ site.baseurl }}/the-actual-dessert)  
+[Roles]({{ site.baseurl }}/roles)  
+[I Think I Should Go Now]({{ site.baseurl }}/i-think-i-should-go-now)  
+[Back Alone]({{ site.baseurl }}/back-alone)
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
 **LAY OF THE LAND**  
-[Such Misery](such-misery.md)  
-[On the Moon](on-the-moon.md)  
-[Parallel Life](parallel-life.md)  
-[Ultimatum](ultimatum.md)  
-[The Motley Crew and Thailand](the-motley-crew-and-thailand.md)  
-[Ruminations](ruminations.md)  
-[The Free Fuck-You](the-free-fuck-you.md)  
-[Really.](really.md)  
-[Home Again](home-again.md)  
-[I Need Help!](i-need-help.md)  
- [Karina](karina.md)  
-["Normal" Trans](normal-trans.md)  
-[Terrasanto'sWonder](terrasantos-wonder.md)  
-[A Girl Who Knows a Guy](a-girl-who-knows-a-guy.md)  
-[Doorstep](doorstep.md)  
-[The Face](the-face.md)  
-[The Way Back to Love](the-way-back-to-love.md)
+[Such Misery]({{ site.baseurl }}/such-misery)  
+[On the Moon]({{ site.baseurl }}/on-the-moon)  
+[Parallel Life]({{ site.baseurl }}/parallel-life)  
+[Ultimatum]({{ site.baseurl }}/ultimatum)  
+[The Motley Crew and Thailand]({{ site.baseurl }}/the-motley-crew-and-thailand)  
+[Ruminations]({{ site.baseurl }}/ruminations)  
+[The Free Fuck-You]({{ site.baseurl }}/the-free-fuck-you)  
+[Really.]({{ site.baseurl }}/really)  
+[Home Again]({{ site.baseurl }}/home-again)  
+[I Need Help!]({{ site.baseurl }}/i-need-help)  
+ [Karina]({{ site.baseurl }}/karina)  
+["Normal" Trans]({{ site.baseurl }}/normal-trans)  
+[Terrasanto'sWonder]({{ site.baseurl }}/terrasantos-wonder)  
+[A Girl Who Knows a Guy]({{ site.baseurl }}/a-girl-who-knows-a-guy)  
+[Doorstep]({{ site.baseurl }}/doorstep)  
+[The Face]({{ site.baseurl }}/the-face)  
+[The Way Back to Love]({{ site.baseurl }}/the-way-back-to-love)
 
 <!-- /wp:paragraph -->
 
