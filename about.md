@@ -4,4 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Alexi Karuna… I’ll fill out more detail about myself and the book here at some point. 
+Until I add more here... I can be contacted at:
+<br/><br/>
+{%- if site.email -%}
+<a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+{%- endif -%}
