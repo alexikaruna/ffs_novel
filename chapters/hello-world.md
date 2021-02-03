@@ -17,7 +17,7 @@ Mali lay on $er bed, late in the evening before turning in for the day. Impulsed
 
 <!-- wp:paragraph -->
 
-**Mali:** Hi K… I know its a weird hour. I am going to leave this on for a bit, if you find it. Hope you’re well ;)
+**Mali:** _Hi K… I know its a weird hour. I am going to leave this on for a bit, if you find it. Hope you’re well ;)_
 
 <!-- /wp:paragraph -->
 
@@ -41,7 +41,7 @@ On the screen were words now:
 
 <!-- wp:paragraph -->
 
-**KO:** Sorry missed you. I figure you have things to tell me! BTW, a long lost friend of mine, long story, but she’s coming to Thailand. I figure it might be good for you two to meet. Just a hunch ;) Name is Anastasia. Bangkok airport 6:45am this Friday, Singapore 6045. Coming with two friends. But the two are going right to Phuket. I told Ana to hang with you if she could for a bit…&nbsp;
+**KO:** _Sorry missed you. I figure you have things to tell me! BTW, a long lost friend of mine, long story, but she’s coming to Thailand. I figure it might be good for you two to meet. Just a hunch ;) Name is Anastasia. Bangkok airport 6:45am this Friday, Singapore 6045. Coming with two friends. But the two are going right to Phuket. I told Ana to hang with you if she could for a bit…&nbsp;_
 
 <!-- /wp:paragraph -->
 
@@ -53,7 +53,7 @@ On the screen were words now:
 
 <!-- wp:paragraph -->
 
-**Mali:** Wow. Uh… you do take initiative for me don’t you :) But friends of yours are friends of mine. I just got back from BKK though! Do I have to go again?
+**Mali:** _Wow. Uh… you do take initiative for me don’t you :) But friends of yours are friends of mine. I just got back from BKK though! Do I have to go again?_
 
 <!-- /wp:paragraph -->
 
@@ -71,37 +71,37 @@ It wasn’t long though, after a shower and putting the rice cooker to heat up s
 
 <!-- wp:paragraph -->
 
-**KO:** You’re so nice. Really. But it would be so great. Ana is ridiculously cool. If she only liked girls I would be so in to her :) Well, I don’t actually know the deal with her. But we met in grade school. Well, ‘virtually’ met. She is this crazy free dancer and wanted to create this project with movement on the computer. She found me - I was only like 14 and totally into the $100 she paid me for like a billion hours of really cool programming. She actually won a prize and a writeup for it and I was included. She - well her parents - flew me out to the ceremony and we became close friends - as much as you could in a few days together in the 80’s, when long distance wasn’t cheap and all we had left were letters. But ever since we stay in touch once in a while. Its not close but she’s the real thing of real things. You know in this world…
+**KO:** _You’re so nice. Really. But it would be so great. Ana is ridiculously cool. If she only liked girls I would be so in to her :) Well, I don’t actually know the deal with her. But we met in grade school. Well, ‘virtually’ met. She is this crazy free dancer and wanted to create this project with movement on the computer. She found me - I was only like 14 and totally into the $100 she paid me for like a billion hours of really cool programming. She actually won a prize and a writeup for it and I was included. She - well her parents - flew me out to the ceremony and we became close friends - as much as you could in a few days together in the 80’s, when long distance wasn’t cheap and all we had left were letters. But ever since we stay in touch once in a while. Its not close but she’s the real thing of real things. You know in this world…_
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-**Mali:** Say no more :) I totally want to see this program… still exist?
+**Mali:** _Say no more :) I totally want to see this program… still exist?_
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-**KO:** Yeah, if you have a TRS-80 with an 8” floppy drive, got the goods locked up in my vault somewhere.&nbsp;
+**KO:** _Yeah, if you have a TRS-80 with an 8” floppy drive, got the goods locked up in my vault somewhere.&nbsp;_
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-**Mali:** Vault???
+**Mali:** _Vault???_
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-**KO:** If you only knew! All kinds of shit in there people would not believe I kept. Like my first love the Apple II, when their logo was still pretty rainbow… hahaha THAT should have been a sign… not the boring gray piece of shit they have now… before UI’s were built for the shit-dumb user base of today…
+**KO:** _If you only knew! All kinds of shit in there people would not believe I kept. Like my first love the Apple II, when their logo was still pretty rainbow… hahaha THAT should have been a sign… not the boring gray piece of shit they have now… before UI’s were built for the shit-dumb user base of today…_
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-**Mali:** I have to visit you, really.&nbsp;
+**Mali:** _I have to visit you, really.&nbsp;_
 
 <!-- /wp:paragraph -->
 
@@ -113,97 +113,97 @@ K felt a rush of warmth in her heart at the idea and smiled.
 
 <!-- wp:paragraph -->
 
-**KO:** Yeah?
+**KO:** _Yeah?_
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-**Mali:** Oh and the Face guy? I’m gonna save that one for when we meet in person.
+**Mali:** _Oh and the Face guy? I’m gonna save that one for when we meet in person._
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-**KO:** You’re sooooooooo mean!!!! But fair fair. So you found him???
+**KO:** _You’re sooooooooo mean!!!! But fair fair. So you found him???_
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-**Mali:** I can say thank you, for now. That WAS an experience that I still haven’t completely come to grips with.
+**Mali:** _I can say thank you, for now. That WAS an experience that I still haven’t completely come to grips with._
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-**KO:** You’re welcome hahahaha… evil aren’t I?
+**KO:** _You’re welcome hahahaha… evil aren’t I?_
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-**Mali:** And let Ana know I am all hers. I can - will - come down to BKK for her or for sure if she wants to come up here she’s totally welcome to the bumkin land.&nbsp;
+**Mali:** _And let Ana know I am all hers. I can - will - come down to BKK for her or for sure if she wants to come up here she’s totally welcome to the bumkin land.&nbsp;_
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-**KO:** Tell you what and I would not tell you to do this if I didn’t know her. She’s so cool, just go meet her, make her day, ok? I actually think she will more than make your day. Wish I could come in fact!
+**KO:** _Tell you what and I would not tell you to do this if I didn’t know her. She’s so cool, just go meet her, make her day, ok? I actually think she will more than make your day. Wish I could come in fact!_
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-**Mali:** You should! Anything for you sweetheart ;)
+**Mali:** _You should! Anything for you sweetheart ;)_
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-**KO:** I toooooolllldddd you, don’t do that!!! And yeah… THAT would go over just great with my GF right now :(
+**KO:** _I toooooolllldddd you, don’t do that!!! And yeah… THAT would go over just great with my GF right now :(_
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-**Mali:** So which Friday does she get here?
+**Mali:** _So which Friday does she get here?_
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-**KO:** Day after tomorrow.
+**KO:** _Day after tomorrow._
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-**Mali:** Seriously?
+**Mali:** _Seriously?_
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-**KO:** Can you make it?&nbsp;
+**KO:** _Can you make it?&nbsp;_
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-**Mali:** I’ll make it happen. Is all good with you and GF?
+**Mali:** _I’ll make it happen. Is all good with you and GF?_
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-**KO:** Better. I… well… for when we meet in person we talk, it will turn into an epic here and you need to go out. But I am really really trying to make this work here and face my work ‘demons’ that are sooooo hard because I can’t tell them from angels.&nbsp;
+**KO:** _Better. I… well… for when we meet in person we talk, it will turn into an epic here and you need to go out. But I am really really trying to make this work here and face my work ‘demons’ that are sooooo hard because I can’t tell them from angels.&nbsp;_
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-**Mali:** I think I understand. I so look forward to actually seeing you again. You’re - speaking of cool people - rather amazing yourself :)
+**Mali:** _I think I understand. I so look forward to actually seeing you again. You’re - speaking of cool people - rather amazing yourself :)_
 
 <!-- /wp:paragraph -->
 
@@ -215,7 +215,7 @@ Another stream of warmth went through K. It felt nice. What the hell was that?!
 
 <!-- wp:paragraph -->
 
-**KO:** Ok, with that I will sign off.
+**KO:** _Ok, with that I will sign off._
 
 <!-- /wp:paragraph -->
 
