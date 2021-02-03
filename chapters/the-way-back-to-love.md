@@ -273,7 +273,7 @@ It still pissed Mali off but…
 
 <!-- wp:paragraph -->
 
-_I hate how I am too. I hate what and they they're lauging. So that is that?_.&nbsp;
+_I hate how I am too. I hate what and they they're lauging. So what is that?_&nbsp;
 
 <!-- /wp:paragraph -->
 
