@@ -11,7 +11,7 @@ A few days later…
 
 <!-- wp:paragraph -->
 
-Mali lay on $er bed, late in the evening before turning in for the day. Impulsed by feeling alone and the need to connect, Mali started the terminal on her Mac lying on $er bed with $er and logged into K’s chat server. There was no answer. Well, then again, it was in fact fourteen hours earlier there, making it something like 7am. $he suspected that K probably went to bed not much earlier than that. Just seemed, $he didn’t know actually.&nbsp;
+Mali lay on $er bed, late in the evening before turning in for the day. Impulsed by feeling alone and the need to connect, $he started the terminal on her Mac and logged into K’s chat server. There was no answer. Well, then again, it was in fact fourteen hours earlier there, making it something like 7am. $he suspected that K probably went to bed not much earlier than that. Just seemed, $he didn’t know actually.&nbsp;
 
 <!-- /wp:paragraph -->
 
@@ -29,7 +29,7 @@ Mali dozed off, then slept. And slept.
 
 <!-- wp:paragraph -->
 
-When awaking, in a bit brushing the computer mouse, the black screen came back to vision. ‘Crap’, thinking to $erself, ‘I cant just leave that on with K, she probably owns my whole system by now.’ Half not caring because $he trusted her. But it bothered $er ego.
+When awaking, accidentally brushing the track pad, the black screen came back to vision. ‘Crap’, thinking to $erself, ‘I cant just leave that on with K, she probably owns my whole system by now.’ Half not caring because $he trusted her. But it bothered $er ego.
 
 <!-- /wp:paragraph -->
 
@@ -41,7 +41,7 @@ On the screen were words now:
 
 <!-- wp:paragraph -->
 
-**KO:** _Sorry missed you. I figure you have things to tell me! BTW, a long lost friend of mine, long story, but she’s coming to Thailand. I figure it might be good for you two to meet. Just a hunch ;) Name is Anastasia. Bangkok airport 6:45am this Friday, Singapore 6045. Coming with two friends. But the two are going right to Phuket. I told Ana to hang with you if she could for a bit…&nbsp;_
+**KO:** _Sorry missed you. I figure you have things to tell me! BTW, a long lost friend of mine, long story, but she’s coming to Thailand. I figure it might be good for you two to meet. Just a hunch :) Name is Anastasia. Bangkok airport 6:45am this Friday, Singapore 6045. Coming with two friends. But the two are going right to Phuket. I told Ana to hang with you if she could for a bit…&nbsp;_
 
 <!-- /wp:paragraph -->
 
