@@ -35,7 +35,7 @@ The hot and heavy sun had heated $er moped seat to a simmer. $he winced at the s
 
 <!-- wp:paragraph -->
 
-The splendor of the flat Thai countryside, mountains in the distance lay on the left in the brilliance of the light. It was special, so special. The stores, markets, the greenery. The other mopeders on the road. So many cute little young Thai women, like munchkins, headphones on, smug as bugs in a rug on their mopeds, with their Hello Kitty helmets off to unknowable places. A reality juxtaposed by perhaps the most surreal conversation and meeting $he’d certainly ever had, even now it did not seem real, just minutes after.&nbsp;
+The splendor of the flat Thai countryside, mountains in the distance lay on the left in the brilliance of the light. It was special, so special. The stores, markets, the greenery. The other mopeders on the road. So many cute little young Thai women, like munchkins, headphones on, smug as bugs in a rug on their mopeds, with their Hello Kitty helmets off to unknowable places. A reality juxtaposed by perhaps the most surreal conversation and meeting $he’d certainly ever had, that even now it did not seem real, just minutes after.&nbsp;
 
 <!-- /wp:paragraph -->
 
@@ -71,7 +71,7 @@ _Jesus Christ was he blunt.&nbsp;_
 
 <!-- wp:paragraph -->
 
-Of course Mali realized a lot could be the language barrier and the need for Face to get the message across with the few English words he knew. But something about the bluntness haunted $er. As if it really was the truth about $er fucked up life.
+Of course Mali realized a lot could be the language barrier and the need for Face to get the message across with the few English words he knew. But something about the bluntness haunted $er. The confidence of it. As if it really was the truth about $er fucked up life.
 
 <!-- /wp:paragraph -->
 
@@ -113,7 +113,7 @@ Crossing the bridge into actual Chiang Rai proper, recognizing the need for food
 
 <!-- wp:paragraph -->
 
-$he walked in and found a table a nice distance from the fan oscillating at the front. $he ordered a bowl of beef noodle soup. Hopefully it did not have MSG but that was something far out of $er ability to ask for.&nbsp;
+$he walked in and found a table a nice distance from the fan oscillating at the front. $he ordered a bowl of beef noodle soup. Hopefully it did not have MSG but that was something still far out of $er ability to ask for. Even if $he could remember the word, attempts at prounouncing it had never succeeded in an understanding.&nbsp;
 
 <!-- /wp:paragraph -->
 
@@ -237,7 +237,7 @@ No wonder $he felt so awkward half the time when $he received only kindness from
 
 <!-- wp:paragraph -->
 
-$he looked up. The middle aged woman cook and waitress looked concerned. $he smiled through $er tears, a real smile not $er bullshit half smiles. That too would be a thing of the past, hiding. And so like Thais, especially when they got the message that one was okay and was kind-hearted, she smiled back. He loved this place. Anywhere with like twelve words and different types of smiles had to be okay.&nbsp;
+$he looked up. The middle aged woman cook and waitress looked concerned. $he smiled through $er tears, a real smile not $er bullshit half smiles. That too would be a thing of the past, hiding. And so like Thais, especially when they got the message that one was okay and was kind-hearted, she smiled back. $he loved this place. Anywhere with like twelve words and different types of smiles had to be okay.&nbsp;
 
 <!-- /wp:paragraph -->
 
@@ -268,6 +268,12 @@ _But no one calls you a ‘man in a dress’ like in the fucked up western world
 <!-- wp:paragraph -->
 
 It still pissed Mali off but…
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+_I hate how I am too. I hate what and they they're lauging. So that is that?_.&nbsp;
 
 <!-- /wp:paragraph -->
 
