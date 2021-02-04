@@ -225,3 +225,4 @@ SESSION CLOSED&nbsp;
 
 <!-- /wp:paragraph -->
 
+[NEXT]({{ site.baseurl }}/hating-on-the-road-to-bangkok/)
