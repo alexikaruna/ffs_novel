@@ -116,5 +116,6 @@ _FFS is being published serially on this site starting December 2019. New chapte
 
 **HOPE**  
 [Hello World]({{ site.baseurl }}/hello-world)  
+[Hating on the Road to Bangkok]({{ site.baseurl }}/hating-on-the-road-to-bangkok)  
 
 <!-- /wp:paragraph -->
