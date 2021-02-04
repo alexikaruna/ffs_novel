@@ -1,3 +1,8 @@
+---
+layout: default
+title: Dress Shopping
+permalink: "/dress-shopping/"
+---
 <html>
 <body>
 <p class="p1"><i>Shit already or get off the pot!</i></p>
