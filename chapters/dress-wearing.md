@@ -1,3 +1,8 @@
+---
+layout: default
+title: Dress Wearing
+permalink: "/dress-wearing/"
+---
 <html>
 <body>
 <p class="p1">Arriving back to $er room, although $he was leaving tomorrow and would have to pack in the morning, $he hung up $er new dresses with the hangers provided by the hotel and arranged the other items and accessories $he’d bought on the nice white counter that extended from the wall.<span class="Apple-converted-space"> </span></p>

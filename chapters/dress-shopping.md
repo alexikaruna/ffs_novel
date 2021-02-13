@@ -38,7 +38,7 @@ permalink: "/dress-shopping/"
 <p class="p1">Too, $he strangely felt more okay… to go further. A certain thought had started coming up the last few days. Initially let go and dismissed but now to the point which it had to be acted upon.</p>
 
 <p class="p1"><i>A new level of exploration.</i></p>
-<p class="p2"><span class="Apple-converted-space"> </span></p>
+
 <p class="p1">Unthinkable even a week before.</p>
 
 <p class="p1">$he smirked playfully, knowing in $er gut that this had to happen.<span class="Apple-converted-space"> </span></p>
@@ -72,7 +72,6 @@ permalink: "/dress-shopping/"
 <p class="p1">A mantra that gave power.</p>
 
 <p class="p1">And so Mali pulled $erself up from the yoga mat, arranged $erself and set out to make it happen. Deep inside in addition to the excitement was a sense of warm comfort even just thinking about it.<span class="Apple-converted-space"> </span></p>
-<p class="p2"><span class="Apple-converted-space"> </span></p>
 
 <!-- wp:separator -->
 * * *
