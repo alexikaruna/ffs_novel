@@ -87,3 +87,4 @@ permalink: "/hating-on-the-road-to-bangkok/"
 
 </body>
 </html>
+[NEXT]({{ site.baseurl }}/dress-shopping/)
